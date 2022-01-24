@@ -259,12 +259,13 @@ input{
     width: 48%;
 }
 
-/* Foote r================== */
+/* Footer================== */
 footer {
     text-align: center;
     padding: 4rem 2rem;
     color: var(--dark-blue);
     opacity: 0.6;
+    display: inline;
 }
 
 /* RESPONSIVE============= */
